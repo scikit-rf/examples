@@ -5,7 +5,7 @@
 }
 div.cell{
     width:800px;
-    margin-left:16% !important;
+    /*margin-left:16% !important;*/
     margin-right:auto;
 }
 h1 {
@@ -27,10 +27,10 @@ div.text_cell_render{
 
 
 
-.CodeMirror{
+/*.CodeMirror{
     font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
         
-}
+}*/
 .prompt{
     display: None;
     }
