@@ -1,3 +1,6 @@
+Decprecated. 
+
+examples have been integrated into scikit-rf/docs
 
 Usage Examples of scikit-rf
 =============================
